@@ -6,8 +6,8 @@ She/Her
 
 - Head Developer at [Ulypse](https://github.com/Ulypse)
   
-  -Maker of WARP (Mainly Kotlin and Java, maybe scala)
+  -Maker of [WARPT](https://github.com/Ulypse/WARPT) (Mainly Kotlin and Java, maybe scala)
   
-  -Maker of Eclypse
+  -Maker of [Eclypse](https://github.com/Ulypse/eclypse)
 
   
