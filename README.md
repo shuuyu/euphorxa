@@ -4,10 +4,12 @@ My name is yujin, but you may know me by my aliases, which were and currently ar
 
 She/Her
 
-- Head Developer at [Ulypse](https://github.com/Ulypse)
+- Head Developer at [Ulypse](https://github.com/Ulypse) and [myosyn](https://github.com/myosyn)
   
-  -Maker of [WARPT](https://github.com/Ulypse/WARPT) (Mainly Kotlin and Java, maybe scala)
+  - Maker of [Vertigo](https://github.com/Ulypse/vertigo) (Mainly Kotlin and Java, maybe scala)
   
-  -Maker of [Eclypse](https://github.com/Ulypse/eclypse)
+  - Kind of really bad front end person
+
+  - Maker of [Nabi](https://github.com/myosyn/nabi), a very powerful and capable Discord bot.
 
   
